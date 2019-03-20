@@ -1,5 +1,8 @@
 #pragma once
 
+#include <ostream>
+#include <string>
+
 enum class BoardPosition : char {
     TOP_LEFT,
     TOP_MIDDLE,
